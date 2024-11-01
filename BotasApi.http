@@ -1,0 +1,6 @@
+@BotasApi_HostAddress = http://localhost:5198
+
+GET {{BotasApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
